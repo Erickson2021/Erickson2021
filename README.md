@@ -1,16 +1,119 @@
-# 💫 About Me:
-¡Hola! 👋 Soy Erickson Espinoza, un programador joven de 22 años de Perú 🇵🇪. Mi pasión por el código se traduce en un deseo constante de aprender y sobresalir en el emocionante mundo de la programación.<br><br>En constante búsqueda de desafíos estimulantes, estoy aquí para contribuir en proyectos innovadores. Mi enfoque es claro: agregar valor a través del código y crecer junto a equipos dinámicos. La curiosidad me impulsa a explorar nuevas tecnologías y a enfrentar cada tarea con determinación.<br><br>Con habilidades en constante evolución y un compromiso firme con la excelencia, estoy emocionado por la oportunidad de colaborar en proyectos que no solo resuelvan problemas, sino que también dejen una marca duradera. Si buscas un programador entusiasta y comprometido, ¡aquí estoy listo para destacar en tu próximo proyecto! 🚀
+<h1 align="center"><b>¡Hola! Soy [Tu Nombre]</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+<p align="center">
+  <a href="https://github.com/tu-usuario/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Bienvenido+al+perfil+de+GitHub;Desarrollador+apasionado;Estudiante+de+informática;Amante+de+aprender+nuevas+tecnologías"></a>
+</p>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)  ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Erickson2021&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Erickson2021&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Erickson2021&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br>
 
+## <picture><img src="tu-imagen-url" width="50px"></picture> **Sobre mí**
+
+<picture><img align="right" src="tu-imagen-url" width="250px"></picture>
+
+<br>
+
+- Desarrollador apasionado y estudiante de informática.
+- Participante en desafíos de seguridad informática en mi tiempo libre.
+- Actualmente aprendiendo desarrollo web por cuenta propia.
+- Puedes visitar mi sitio web personal [aquí](tu-enlace-a-tu-sitio-web).
+- Estoy abierto a oportunidades de trabajo o pasantías. Aquí está [mi currículum](enlace-a-tu-curriculum).
+
+<br><br>
+
+<img src="tu-imagen-url"><br><br>
+
+## <img src="tu-imagen-url" width="25"><b> Habilidades</b>
+<br>
+
+<p align="center">
+
+- **Lenguajes**:
+    
+    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
+    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+
+<br>   
+    
+- **Desarrollo Front-End**:
+
+   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+<!-- Agrega más habilidades según sea necesario -->
+
+</p>
+
+<!-- Agrega más secciones si lo deseas -->
+
+<br>
+<br>
+
+-----
+
+<br>
+
+## <img src="tu-imagen-url" width="35"><b> Estadísticas de GitHub </b>
+<br>
+
+<div align="center">
+
+<a href="https://github.com/tu-usuario/">
+  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tu-usuario&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375" alt="tu-usuario"/>
+
+</a>
+</div>
+
+<br>
+<br>
+<br>
+
+-----
+
+<!-- Agrega más secciones si lo deseas -->
+
+<br>
+<br>
+
+## <b> ¡Conéctemos!</b><img src="tu-imagen-url" width ="80">
+<br>
+<div align='left'>
+
+<ul>
+
+<li>
+<a href="tu-enlace-a-linkedin" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:%20TuUsuario-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+<!-- Agrega más enlaces según sea necesario -->
+
+</ul>
+</div>
+
+<br>
+<img src="tu-imagen-url">
+<br>
+<br>
+<br>
+
+<div align='center'>
+
+## <b>¡Gracias por visitar mi perfil!</b>
+
+</div>
+<br>
+<br>
+<br>
+<br>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Erickson2021&icon=9&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br>
+
+Créditos: [Tu Nombre](tu-enlace-a-tu-perfil-de-github)
+
+Última edición en: [Fecha de la última edición]
