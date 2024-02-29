@@ -1,4 +1,5 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cyan&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=86C5DA&height=120&section=header"/>
+
 <h1 align="center"><b>Hi , Welcome :D </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
@@ -40,6 +41,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Erickson2021&icon=9&color=1)](https://visitcount.itsvg.in)
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cyan&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=86C5DA&height=120&section=footer"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
