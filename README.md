@@ -7,12 +7,15 @@
 </p>
 
 <br>
+
 <p>
   <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
 </p>
 
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **About me**
+
 <br>
+
 - Desarrollador apasionado y estudiante de informática.
 - Participante en desafíos de seguridad informática en mi tiempo libre.
 - Actualmente aprendiendo desarrollo web por cuenta propia.
