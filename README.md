@@ -17,8 +17,8 @@
 <br>
 
 - Desarrollador apasionado y estudiante de informática.
-- Participante en desafíos de seguridad informática en mi tiempo libre.
-- Actualmente aprendiendo desarrollo web por cuenta propia.
+- Apasionado por la programación y ansioso por aprender y destacar.
+- Comprometido con la excelencia y el crecimiento personal y profesional.
 - Puedes visitar mi sitio web personal [aquí](https://erickson2021.github.io/Portafolio/).
 - Estoy abierto a oportunidades de trabajo o pasantías. Aquí está [mi currículum](https://drive.google.com/file/d/1JK2TU_ju6Z_WKFk6xL38eLB59_cUCGvT/view).
 
